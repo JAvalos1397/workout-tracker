@@ -44,7 +44,7 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 3. Last Week's Summary
 
-![Site](public/assets/dashboard.png)
+![Site](public/assets/dash.png)
 
 ## Credits
 
